@@ -1,7 +1,7 @@
 
 # Stopwatch - Android(JAVA) Application
 
-This is a Stopwatch & Timer app that can run in the background and can show the time accordingly. It was a project for my university course CSE489 Mobile Application Development Midterm exam. Our main task was to complete the app using services. So I use service class and broadcast the time in milliseconds to show the time in screen. Ui is fully responsive.
+A Stopwatch & Timer app that can run in the background and can show the time accordingly. It was a project for my university course CSE489 Mobile Application Development Midterm exam. Our main task was to complete the app using services. So I used service class and broadcast receiver to cast the time in milliseconds. And Update foreground with converted Hours: Minute: Second. milliseconds format. App UI is fully responsive. but supports only portrait mode.
 
 
 ## Features
@@ -15,18 +15,18 @@ This is a Stopwatch & Timer app that can run in the background and can show the 
 - Small in size
 
 ## Icon
-![icon](ScreenShot/)
+![icon](ScreenShot/stopwatch_icon.png)
 
-
+<!--
 ## Demo
 
-![Demo](ScreenShot/)
+![Demo](ScreenShot/) -->
 
 
 ## Screenshots
 
-![App Screenshot](ScreenShot/)
-![App Screenshot](ScreenShot/)
+![App Screenshot](ScreenShot/stopwatch.png)
+![App Screenshot](ScreenShot/Timer.png)
 
 
 ## Acknowledgements
